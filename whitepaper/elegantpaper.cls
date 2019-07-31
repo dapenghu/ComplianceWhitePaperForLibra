@@ -242,7 +242,9 @@
 \ifx\@date\empty
 \else
 \vskip 0.1em%
- 	{\small\itshape \updatetext \@date}%
+% 	{\small\itshape \updatetext \@date}%
+% 	{\small\itshape \updatetext \number\year 年 \number\month 月 \number\day 日}%
+ 	{\small\itshape \updatetext 2019 年 7 月 31 日}%     
 \fi
   \end{center}%
   \par

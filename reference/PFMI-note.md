@@ -53,7 +53,7 @@ FMI 在金融稳定扮演关键作用，但是如果没有合适的管理与设�
         
         In contrast to retail systems, many LVPSs are operated by central banks, using an RTGS or equivalent mechanism
 
-- Central Securities Depositories CSD 中央证券托管 - 最有可能被区块链代替的部分
+- Central Securities Depositories CSD 中央证券托管 - 最有可能被分布式账本代替的部分
 
     A central securities depository provides **securities accounts**, **central safekeeping services**, and **asset services**, which may include the administration of corporate actions and redemptions, and plays an important role in helping to ensure the integrity of securities issues (that is, ensure that securities are not accidentally or fraudulently created or destroyed or their details changed)
     
@@ -165,7 +165,7 @@ In relation to CCPs, the objectives of safety and efficiency are even more perti
 - Credit risk is the risk that a counterparty will be unable to meet fully its financial obligations when due or at any time in the future.
 - Liquidity risk is the risk that a counterparty will have insufficient funds to meet its financial obligations when due, but may be able to do so at some time in the future.
 
-由于区块链的支付是一种去中心化的点对点支付，在技术层面上有效的降低了信用风险和流动性风险。降低了质押抵押品、保证金等需求。
+由于分布式账本的支付是一种去中心化的点对点支付，在技术层面上有效的降低了信用风险和流动性风险。降低了质押抵押品、保证金等需求。
 
 ### <center> 3.3 Settlement
 
@@ -187,7 +187,7 @@ In relation to CCPs, the objectives of safety and efficiency are even more perti
 ### <center> 3.9 Transparency
 An FMI should have clear and comprehensive rules and procedures and should provide sufficient information to enable participants to have an accurate understanding of the risks, fees, and other material costs they incur by participating in the FMI.
 
-区块链能够以公开、透明的方式运行智能合约，完成支付结算功能，帮助参与者
+分布式账本能够以公开、透明的方式运行智能合约，完成支付结算功能，帮助参与者
 
 ## <center> 术语
 
