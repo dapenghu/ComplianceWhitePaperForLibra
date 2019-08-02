@@ -75,6 +75,8 @@
 %\def\bibfont{\footnotesize}
 
 % settings for the geometry
+%\RequirePackage[hyphens,spaces,obeyspaces]{url}
+\RequirePackage[obeyspaces]{url}
 \RequirePackage{hyperref}
 \hypersetup{
   pdfborder={0 0 0},
